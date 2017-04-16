@@ -2,9 +2,9 @@
 
 ## CCRC
 
-```
-vobs/NIS_P8_PE_LCS
-```
+`vobs/NIS_P8_PE_LCS`
+
+
 
 
 
