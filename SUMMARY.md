@@ -7,4 +7,5 @@
 * [配置文件](pei-zhi-wen-jian.md)
 * [字段映射](zi-duan-ying-she.md)
 * [参考代码](can-kao-dai-ma.md)
+* [公共方法](gong-gong-fang-fa.md)
 
