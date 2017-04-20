@@ -2,5 +2,5 @@
 
 ---
 
-`WEB-INF/classes/application/constant/hz_business.properties`
+`WEB-INF/classes/application/constant/bj_business.properties`
 
