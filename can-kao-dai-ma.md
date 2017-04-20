@@ -2,7 +2,7 @@
 
 ---
 
-## 示例报文
+## 示例报文（BMP001）
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
