@@ -4,6 +4,8 @@
 
 ## 文件名命名规则
 
+### 明细文件
+
 `交易流水号_业务类型_IN/OUT_子序号.dat`
 
 * 业务类型：`BMPXXX` 后三位数字
@@ -42,20 +44,20 @@
 文件内容使用 xml 格式，例如：
 
 ```xml
-<xml version="1.0"encoding="UTF-8"?>					
+<xml version="1.0"encoding="UTF-8"?>                    
 <BJ_TX>
-	<BJ_BODY>				
-		<BJ_DF2>
-			<BJ_CDT>明细流水号1</BJ_CDT>
-			<BJ_AGN>合同（协议）号1</BJ_AGN>
-			<BJ_52A>付款人开户行行号1</BJ_52A>
-		</BJ_DF2>
-		<BJ_DF2>
-			<BJ_CDT>明细流水号2</BJ_CDT>
-			<BJ_AGN>合同（协议）号2</BJ_AGN>
-			<BJ_52A>付款人开户行行号2</BJ_52A>
-		</BJ_DF2>
-	</BJ_BODY>
+    <BJ_BODY>                
+        <BJ_DF2>
+            <BJ_CDT>明细流水号1</BJ_CDT>
+            <BJ_AGN>合同（协议）号1</BJ_AGN>
+            <BJ_52A>付款人开户行行号1</BJ_52A>
+        </BJ_DF2>
+        <BJ_DF2>
+            <BJ_CDT>明细流水号2</BJ_CDT>
+            <BJ_AGN>合同（协议）号2</BJ_AGN>
+            <BJ_52A>付款人开户行行号2</BJ_52A>
+        </BJ_DF2>
+    </BJ_BODY>
 </BJ_TX>
 ```
 
