@@ -2,7 +2,7 @@
 
 ---
 
-| 功能 | 方法名 |
+| 功能 | 方法名/类名 |
 | :--- | :--- |
 | 生成合约编号 | getPdArId\(ElecCtiySysCode city\) |
 | 生成交易流水号 | getBjRhJrnl\(\) |
