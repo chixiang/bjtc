@@ -37,3 +37,27 @@
 
 具体可参考《CCB-NIS-TG-AA-应用平台联机交易接口报文规范.doc》
 
+## 文件格式
+
+文件内容使用 xml 格式，例如：
+
+```xml
+<xml version="1.0"encoding="UTF-8"?>					
+<BJ_TX>
+	<BJ_BODY>				
+		<BJ_DF2>
+			<BJ_CDT>明细流水号1</BJ_CDT>
+			<BJ_AGN>合同（协议）号1</BJ_AGN>
+			<BJ_52A>付款人开户行行号1</BJ_52A>
+		</BJ_DF2>
+		<BJ_DF2>
+			<BJ_CDT>明细流水号2</BJ_CDT>
+			<BJ_AGN>合同（协议）号2</BJ_AGN>
+			<BJ_52A>付款人开户行行号2</BJ_52A>
+		</BJ_DF2>
+	</BJ_BODY>
+</BJ_TX>
+```
+
+每个字段的标签使用人行报文标准标签加 `BJ`_`` 前缀，明细序号/流水号可使用 ```_\` 找不到的需和 P5 约定。
+
