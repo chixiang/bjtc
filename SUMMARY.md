@@ -8,4 +8,5 @@
 * [字段映射](zi-duan-ying-she.md)
 * [参考代码](can-kao-dai-ma.md)
 * [公共方法](gong-gong-fang-fa.md)
+* [交易带附件](jiao-yi-dai-fu-jian.md)
 
