@@ -56,7 +56,7 @@
 </FILE_LIST_SERIAL>
 ```
 
-具体可参考《CCB-NIS-TG-AA-应用平台联机交易接口报文规范.doc》
+具体请参考《CCB-NIS-TG-AA-应用平台联机交易接口报文规范.doc》
 
 ---
 
