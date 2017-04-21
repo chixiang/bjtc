@@ -29,7 +29,7 @@
 </TX_HEADER>
 <TX_BODY>
     <COMMON>
-        <!—请求通用域字段。-->
+        <!--请求通用域字段。-->
     </COMMON>
     <ENTITY>
         <XML_CONTENT>
