@@ -67,18 +67,15 @@
 ```xml
 <xml version="1.0"encoding="UTF-8"?>                    
 <BJ_TX>
-    <BJ_BODY>                
-        <BJ_DF2>
-            <BJ_CDT>明细流水号1</BJ_CDT>
-            <BJ_AGN>合同（协议）号1</BJ_AGN>
-            <BJ_52A>付款人开户行行号1</BJ_52A>
-        </BJ_DF2>
-        <BJ_DF2>
-            <BJ_CDT>明细流水号2</BJ_CDT>
-            <BJ_AGN>合同（协议）号2</BJ_AGN>
-            <BJ_52A>付款人开户行行号2</BJ_52A>
-        </BJ_DF2>
-    </BJ_BODY>
+    <BJ_DF2>
+        <BJ_CDT>明细流水号1</BJ_CDT>
+        <BJ_AGN>合同（协议）号1</BJ_AGN>
+        <BJ_52A>付款人开户行行号1</BJ_52A>
+    <BJ_DF2>
+        <BJ_CDT>明细流水号2</BJ_CDT>
+        <BJ_AGN>合同（协议）号2</BJ_AGN>
+        <BJ_52A>付款人开户行行号2</BJ_52A>
+    </BJ_DF2>
 </BJ_TX>
 ```
 
